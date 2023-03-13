@@ -1,0 +1,9 @@
+This is a list of tools used in organizations:
+Docker
+Terraform
+Maven
+git
+jenkins
+sonarqube
+ansible
+nexus
